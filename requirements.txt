@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+aiohttp
+backoff
+pymysql
+python-dotenv
+prometheus-client
+pydantic
+schedule
+numpy
